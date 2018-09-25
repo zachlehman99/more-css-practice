@@ -1,1 +1,49 @@
-/* Add your CSS here */
+.topnav {
+	font-size: 1.3em;
+	padding-right: .5em;	
+}
+
+h1 {
+	font-size: 5em;
+	text-align: center;
+	margin: 1em;
+}
+
+.number1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+.middlenav {
+	font-size: 1.3em;
+	text-align: center;
+}
+
+.top {
+	padding: 2em;
+	color: lightseagreen
+}
+
+.first {
+	float: left;
+	width: 50%;	
+}
+
+.second {
+	float: right;
+	width: 50%;
+}
+
+.picture1 {
+	float: left;
+	margin-right: 20px;
+}
+
+.picture2 {
+	float: left;
+	margin-right: 20px;
+}
+
+body {
+	text-align: center;
+}
