@@ -13,9 +13,12 @@ aside {
 	font-size: 1.3em;
 }
 
+.list:hover {
+	background: grey;
+}
+
 .heading {
 	font-size: 1em;
 	text-transform: uppercase;
 	padding: 5px;
 }
-
