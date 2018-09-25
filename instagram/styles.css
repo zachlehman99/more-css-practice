@@ -1,1 +1,21 @@
-/* Add your CSS here */
+aside {
+	float: left;
+	margin-bottom: 100%;
+	padding-bottom: 100%;
+	font-family: sans-serif;
+	border-right: solid grey 1px;
+}
+
+.list {
+	list-style: none;
+	padding: 5px;
+	margin: 5px;
+	font-size: 1.3em;
+}
+
+.heading {
+	font-size: 1em;
+	text-transform: uppercase;
+	padding: 5px;
+}
+
