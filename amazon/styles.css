@@ -1,1 +1,9 @@
-/* Add your CSS here */
+.number1 {
+	display: inline-block;
+	min-width: 1224px;
+}
+
+.number2 {
+	display: inline-block;
+	min-width: 1224px;
+}
