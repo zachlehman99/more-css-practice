@@ -1,1 +1,69 @@
-/* Add your CSS here */
+.toppic {
+	z-index: -1;
+	margin-top: -100px;
+	margin-left: -20px;
+	position: relative;
+}
+
+h1 {
+	z-index: 1;
+	color: white;
+}
+
+.top1 {
+	width: 100%;
+}
+
+.top2 {
+	width: 100%;
+}
+
+button {
+	display: block;
+	padding: 15px;
+	width: 100%;
+	margin-top: 25px;
+	background-color: crimson;
+	font-size: 1.5em
+}
+
+.bottom1 {
+	width: 33%;
+	float: left;
+	display: inline-block;
+	border: solid .5px;
+	padding-top: 3px;
+	padding-left: 3px;
+}
+
+.bottom2 {
+	width: 33%;
+	float: left; 
+	display: inline-block;
+	border: solid .5px;
+	padding-top: 3px;
+	padding-left: 3px;
+}
+
+.bottom3 {
+	width: 33%;
+	float: left;
+	display: inline-block;
+	border: solid .5px;
+	padding-top: 3px;
+	padding-left: 3px;
+}
+
+p {
+	float: right;
+	padding-right: 6em;	
+	margin-top: 2em
+}
+
+main {
+	min-width: 1213px;
+}
+
+input {
+	height: 25px;
+}
