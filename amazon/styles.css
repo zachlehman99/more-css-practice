@@ -1,9 +1,16 @@
 .number1 {
 	display: inline-block;
-	min-width: 1224px;
+	padding: 5px;
+	width: 100%;
+	min-width: 1035px;
 }
 
 .number2 {
 	display: inline-block;
-	min-width: 1224px;
+	padding: 5px;
+	min-width: 1035px;
 }
+
+/*
+I am blanking on moving the words under the pictures
+*/
