@@ -10,12 +10,11 @@
 
 nav {
 	text-align: center;
-	min-width: 1067px;
+	min-width: 1070px;
 }
 
 .picture {
 	width: 100%;
-	height: 100%;
 }
 
 h1 {
@@ -25,4 +24,9 @@ h1 {
 
 p {
 	font-size: 1.5em;
+}
+
+body {
+	margin-left: 10%;
+	margin-right: 10%;
 }
